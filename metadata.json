@@ -1,0 +1,5 @@
+{
+  "name": "Mystic Tarot Reader",
+  "description": "A deeply immersive Tarot reading application featuring an astral aesthetic, mood-based readings, and AI-powered interpretations using the Gemini API.",
+  "requestFramePermissions": []
+}
